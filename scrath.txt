@@ -1,0 +1,22 @@
+on load see form 
+    -data model of questions
+        build html from data model 
+        render on screen 
+
+supply name and link to photo image 
+
+answer ten questions 
+
+submit values 
+    jquery serialize array 
+    wrap up in user object 
+    send object to api 
+    *server stuff*
+
+
+popup telling best match 
+load popup with data collected from server and render popup 
+
+
+get and post routes 
+take user object and add to array and find best result 
